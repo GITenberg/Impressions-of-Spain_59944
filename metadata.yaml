@@ -1,0 +1,32 @@
+_repo: Impressions-of-Spain_59944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calvert, Albert Frederick
+    aliases:
+    - Calvert, A. F. (Albert Frederick)
+    - Calvert, Albert F.
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '39139'
+    url: http://www.gutenberg.org/2009/agents/39139
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Frederick_Calvert
+description: ''
+gutenberg_issued: '2019-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- GITenberg
+tableOfContents: Introductory -- Madrid -- El Escorial -- Barcelona -- On the east
+  coast -- A peep into Murcia -- Toledo and Córdova -- The Castiles -- Granada and
+  the Alhambra -- Seville -- In southern Andalusia -- The Basque provinces -- In northern
+  Spain -- Bull-fighting -- The Picture Gallery, Madrid -- Viva el Rey -- Mining.
+title: Impressions of Spain
+url: http://www.gutenberg.org/ebooks/59944
